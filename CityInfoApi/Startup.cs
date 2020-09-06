@@ -28,6 +28,8 @@ namespace CityInfoApi
             }
             app.UseHttpsRedirection();
 
+
+
             app.UseRouting();
 
             app.UseAuthorization();
